@@ -12,7 +12,7 @@ public class MainActivity extends AppCompatActivity {
         //test file
         /**
          * sample 2
-        * this is a test
+        * this is a testassssssss
          * Rica
         * */
     }
